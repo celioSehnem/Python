@@ -1,4 +1,4 @@
-### Leitura de dados metereológicos 
+# Leitura de dados metereológicos 
 
 Este trabalho visa explorar com o Python, um arquivo .csv que contém dados meterológicos. 
 
