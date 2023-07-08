@@ -10,7 +10,7 @@ Com base nesse conjunto de dados, criei um programa que realiza as seguintes ope
 Criei uma função para a leitura de dados, visto que teria de abrir o arquivo em diversos momentos do programa. A função, por meio do append, salva todos os dados .csv em uma lista, além disso, como originalmente todos estavam em formato de texto, transformei todos os dados em float, com excessão da coluna data, que transfomei em formato de data. Além disso, exclui os número negativos e acima de 100 no campo de precipitação.
 
 ### 2) Visualização dos dados carregados do arquivo por meio de inputs do usuário:
-O usuário deve informar o período que quer ver, ou seja, deve indicar o mês e ano iniciais, bem como o mês e ano finais que deseja visualizar os dados. Permita também que o usuário informe se quer ver 1) todos os dados, 2) apenas os de precipitação, 3) apenas os de temperatura, ou 4) apenas os de umidade e vento para o período informado. Todos os inputs realizados pelo usuário passaram por uma validação.
+O usuário deve informar o período que quer ver, ou seja, deve indicar o mês e ano iniciais, bem como o mês e ano finais que deseja visualizar os dados. Permita também que o usuário informe se quer ver 1) todos os dados, 2) apenas os de precipitação, 3) apenas os de temperatura, ou 4) apenas os de umidade e vento para o período informado. Todos os inputs realizados pelo usuário passam por uma validação.
 
 ### 3) Visualização do dia com maior precipitação
 
