@@ -14,5 +14,5 @@ O usuário deve informar o período que quer ver, ou seja, deve indicar o mês e
 
 ### 3) Visualização do dia com maior precipitação
 
-### 4) Média da temperatura mínima de um determinado mês (auge do inverno) nos últimos 11 anos do conjunto de dados (2006 a 2016) + gráfico com as médias do mês selecionado durante esses 11 anos: 
+### 4) Média da temperatura mínima de um determinado mês nos últimos 11 anos do conjunto de dados (2006 a 2016) + gráfico com as médias do mês selecionado durante esses 11 anos: 
 O programa escreve a média da temperatura mínima de um mês informado pelo usuário e a média geral da temperatura mínima para todo o período (11 anos). Ou seja, se o mês informado for 8, o programa exibi a temperatura mínima média do mês de agosto de cada ano (agosto/2006, agosto/2007, ...agosto/2016) e por fim apresenta a média deste período. Por fim o programa exibe um gráfico com as médias do mês selecionado durante 2006 até 2016.
